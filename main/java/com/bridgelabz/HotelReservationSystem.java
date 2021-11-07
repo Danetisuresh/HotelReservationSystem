@@ -2,7 +2,8 @@ package com.bridgelabz;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * Purpose  -  */
+ * Purpose  - Ability to find cheapest hotel for a given data range
+ */
 
 public class HotelReservationSystem {
 	private List<Hotel> hotels;
