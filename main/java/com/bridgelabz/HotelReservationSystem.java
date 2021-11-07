@@ -2,7 +2,8 @@ package com.bridgelabz;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * Purpose  -  */
+ * Purpose  - Ability to add weekday and weekend rates for each Hotel
+ */
 
 public class HotelReservationSystem {
 	private List<Hotel> hotels;
